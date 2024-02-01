@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>6.0.8</PackageVersion>
+    <PackageVersion>8.0.0</PackageVersion>
     <Authors>Emre Kizildas</Authors>
     <PackageIconUrl>https://github.com/emrekizildas/EntityFrameworkCore.EncryptColumn/raw/main/EntityFramework.Core.EncryptDBColumn/icon.png</PackageIconUrl>
     <NeutralLanguage>en-US</NeutralLanguage>
